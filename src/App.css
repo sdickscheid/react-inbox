@@ -1,0 +1,75 @@
+.row {
+  margin-right: 0 !important;
+}
+
+.main-container {
+  padding-top: 10px;
+  padding-left: 150px;
+  padding-right: 150px;
+  background-color: grey;
+  height: 100vh;
+}
+
+.header-main {
+  font-size: 58pt;
+  text-align: center;
+  color: white;
+  font-family: "Perpetua"
+}
+
+.toolbar-main-container {
+  margin-top: 30px;
+  padding-top: 5px !important;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid grey;
+  border-radius: 5px 5px 0px 0px;
+  background-color: silver;
+}
+
+  .label-select {
+    height: 34px !important;
+    border-color: #bbbbbb;
+    background-image: linear-gradient(to bottom, #fff 0%, #e0e0e0 100%);
+  }
+
+  .toolbar select, .toolbar button, .toolbar a, .toolbar .badge {
+    margin-right: .5em;
+    margin-bottom: 0 !important;
+  }
+
+.messageList-main-container{
+  /*margin-top: 5px;*/
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 0px 0px 5px 5px;
+}
+
+  .msg-box {
+    margin-bottom: 150px;
+    border: 1px solid grey;
+    padding: 5px 5px 5px 5px;
+    background-color: #fefefe;
+  }
+
+
+.form-box {
+  margin-top: 30px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border: 1px solid grey;
+  padding: 5px !important;
+}
+
+.textarea-section {
+  height: 150px !important;
+}
+
+.submit-btn {
+  width: 150px;
+  float: left;
+}
+
+.line-items-alignment {
+  text-align: left !important;
+}
